@@ -124,3 +124,8 @@
 2026-03-30T01:48:48.963Z | connection_pool_recreate_error | {"error":"connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56916)"} | connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56916) | RESPONSE: null
 2026-03-30T01:48:48.963Z | health_check_error | {"error":"connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56915)"} | connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56915) | RESPONSE: null
 2026-03-30T01:48:48.963Z | health_check_error | {"error":"connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56916)"} | connect ENETUNREACH 8.155.47.77:3306 - Local (0.0.0.0:56916) | RESPONSE: null
+2026-03-30T10:21:10.960Z | connection_pool_close_error | {"error":"read ETIMEDOUT"} | read ETIMEDOUT | RESPONSE: null
+2026-03-30T10:21:11.316Z | connection_pool_recreate_error | {"error":"Pool is closed."} | Pool is closed. | RESPONSE: null
+2026-03-30T10:21:11.317Z | connection_pool_closed | {} | SUCCESS | RESPONSE: {"status":"closed"}
+2026-03-30T10:21:11.317Z | health_check_error | {"error":"Pool is closed."} | Pool is closed. | RESPONSE: null
+2026-03-30T10:21:11.699Z | connection_pool_recreated | {"host":"8.155.47.77","port":3306,"database":"voiceAssistant"} | SUCCESS | RESPONSE: {"status":"success"}
