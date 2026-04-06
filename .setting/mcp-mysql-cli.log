@@ -37,3 +37,162 @@
 2026-03-29T11:34:01.811Z | INFO | Press Ctrl+C to gracefully shutdown the server
 2026-03-29T11:34:09.802Z | WARN | Server shutdown timeout, forcing exit...
 2026-03-29T11:34:09.804Z | INFO | CLI process exiting with code: 1
+2026-04-02T08:21:25.751Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-02T08:21:25.752Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-02T08:21:25.753Z | INFO | MCP MySQL server process started with PID: 24028
+2026-04-02T08:21:25.753Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-02T08:21:25.753Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-02T08:42:21.863Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-02T08:42:21.864Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-02T08:42:21.865Z | INFO | MCP MySQL server process started with PID: 38560
+2026-04-02T08:42:21.865Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-02T08:42:21.865Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-02T08:48:47.436Z | INFO | Received SIGTERM, shutting down server...
+2026-04-02T08:48:47.438Z | INFO | Sent SIGTERM signal to server process 38560
+2026-04-02T08:48:47.446Z | INFO | MCP MySQL server exited with code: 0
+2026-04-02T08:48:47.447Z | INFO | Server requested restart, restarting...
+2026-04-02T08:48:49.450Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-02T08:48:49.452Z | INFO | MCP MySQL server process started with PID: 44258
+2026-04-02T08:48:49.453Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-02T08:48:49.453Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-02T08:48:49.547Z | INFO | CLI process exiting with code: 0
+2026-04-02T08:49:01.177Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-02T08:49:01.179Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-02T08:49:01.180Z | INFO | MCP MySQL server process started with PID: 45212
+2026-04-02T08:49:01.180Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-02T08:49:01.180Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-02T09:01:26.445Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-02T09:01:26.447Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-02T09:01:26.448Z | INFO | MCP MySQL server process started with PID: 56492
+2026-04-02T09:01:26.448Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-02T09:01:26.448Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-05T11:27:33.724Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-05T11:27:33.726Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-05T11:27:33.727Z | INFO | MCP MySQL server process started with PID: 48977
+2026-04-05T11:27:33.727Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-05T11:27:33.727Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-05T11:27:58.404Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-05T11:27:58.406Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-05T11:27:58.407Z | INFO | MCP MySQL server process started with PID: 49460
+2026-04-05T11:27:58.407Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-05T11:27:58.407Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T04:08:16.229Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T04:08:16.230Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T04:08:16.231Z | INFO | MCP MySQL server process started with PID: 19262
+2026-04-06T04:08:16.231Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T04:08:16.231Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T04:17:06.844Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T04:17:06.849Z | INFO | Sent SIGINT signal to server process 19262
+2026-04-06T04:17:06.849Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T04:17:06.849Z | INFO | Sent SIGINT signal to server process 19262
+2026-04-06T04:17:06.854Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T04:17:06.855Z | INFO | Server requested restart, restarting...
+2026-04-06T04:17:08.857Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T04:17:08.860Z | INFO | MCP MySQL server process started with PID: 22183
+2026-04-06T04:17:08.860Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T04:17:08.860Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T04:17:16.850Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-06T04:17:16.851Z | INFO | CLI process exiting with code: 1
+2026-04-06T04:17:21.581Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T04:17:21.582Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T04:17:21.583Z | INFO | MCP MySQL server process started with PID: 22377
+2026-04-06T04:17:21.583Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T04:17:21.583Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T04:17:36.589Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T04:17:36.591Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T04:17:36.592Z | INFO | MCP MySQL server process started with PID: 22592
+2026-04-06T04:17:36.592Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T04:17:36.592Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T05:12:50.640Z | INFO | Received SIGTERM, shutting down server...
+2026-04-06T05:12:50.645Z | INFO | Sent SIGTERM signal to server process 22592
+2026-04-06T05:12:50.653Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T05:12:50.654Z | INFO | Server requested restart, restarting...
+2026-04-06T05:12:52.657Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T05:12:52.662Z | INFO | MCP MySQL server process started with PID: 43516
+2026-04-06T05:12:52.662Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T05:12:52.662Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T05:12:52.756Z | INFO | CLI process exiting with code: 0
+2026-04-06T05:12:53.919Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T05:12:53.921Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T05:12:53.921Z | INFO | MCP MySQL server process started with PID: 43635
+2026-04-06T05:12:53.922Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T05:12:53.922Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T05:35:28.212Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T05:35:28.216Z | INFO | Sent SIGINT signal to server process 43635
+2026-04-06T05:35:28.216Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T05:35:28.217Z | INFO | Sent SIGINT signal to server process 43635
+2026-04-06T05:35:28.222Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T05:35:28.222Z | INFO | Server requested restart, restarting...
+2026-04-06T05:35:30.225Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T05:35:30.231Z | INFO | MCP MySQL server process started with PID: 52865
+2026-04-06T05:35:30.231Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T05:35:30.231Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T05:35:38.217Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-06T05:35:38.218Z | INFO | CLI process exiting with code: 1
+2026-04-06T05:35:59.899Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T05:35:59.900Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T05:35:59.901Z | INFO | MCP MySQL server process started with PID: 53145
+2026-04-06T05:35:59.901Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T05:35:59.901Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T06:27:07.553Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T06:27:07.556Z | INFO | Sent SIGINT signal to server process 53145
+2026-04-06T06:27:07.557Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T06:27:07.557Z | INFO | Sent SIGINT signal to server process 53145
+2026-04-06T06:27:07.563Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T06:27:07.564Z | INFO | Server requested restart, restarting...
+2026-04-06T06:27:09.567Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T06:27:09.571Z | INFO | MCP MySQL server process started with PID: 74080
+2026-04-06T06:27:09.571Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T06:27:09.572Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T06:27:17.558Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-06T06:27:17.559Z | INFO | CLI process exiting with code: 1
+2026-04-06T06:27:29.757Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T06:27:29.758Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T06:27:29.759Z | INFO | MCP MySQL server process started with PID: 74343
+2026-04-06T06:27:29.759Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T06:27:29.760Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T06:36:40.956Z | INFO | Received SIGTERM, shutting down server...
+2026-04-06T06:36:40.959Z | INFO | Sent SIGTERM signal to server process 74343
+2026-04-06T06:36:40.967Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T06:36:40.967Z | INFO | Server requested restart, restarting...
+2026-04-06T06:36:42.970Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T06:36:42.976Z | INFO | MCP MySQL server process started with PID: 77640
+2026-04-06T06:36:42.977Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T06:36:42.977Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T06:36:43.069Z | INFO | CLI process exiting with code: 0
+2026-04-06T06:36:46.073Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T06:36:46.075Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T06:36:46.076Z | INFO | MCP MySQL server process started with PID: 77781
+2026-04-06T06:36:46.076Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T06:36:46.076Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T07:24:56.477Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T07:24:56.479Z | INFO | Sent SIGINT signal to server process 77781
+2026-04-06T07:24:56.480Z | INFO | Received SIGINT, shutting down server...
+2026-04-06T07:24:56.480Z | INFO | Sent SIGINT signal to server process 77781
+2026-04-06T07:24:56.485Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T07:24:56.485Z | INFO | Server requested restart, restarting...
+2026-04-06T07:24:58.488Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T07:24:58.491Z | INFO | MCP MySQL server process started with PID: 96825
+2026-04-06T07:24:58.491Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T07:24:58.491Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T07:25:06.480Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-06T07:25:06.480Z | INFO | CLI process exiting with code: 1
+2026-04-06T07:25:18.623Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T07:25:18.624Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T07:25:18.625Z | INFO | MCP MySQL server process started with PID: 97053
+2026-04-06T07:25:18.625Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T07:25:18.625Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T08:03:02.647Z | INFO | Received SIGTERM, shutting down server...
+2026-04-06T08:03:02.653Z | INFO | Sent SIGTERM signal to server process 49460
+2026-04-06T08:03:02.662Z | INFO | MCP MySQL server exited with code: 0
+2026-04-06T08:03:02.663Z | INFO | Server requested restart, restarting...
+2026-04-06T08:03:04.665Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T08:03:04.668Z | INFO | MCP MySQL server process started with PID: 12180
+2026-04-06T08:03:04.669Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T08:03:04.669Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-06T08:03:04.766Z | INFO | CLI process exiting with code: 0
+2026-04-06T08:03:12.913Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-06T08:03:12.915Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-06T08:03:12.916Z | INFO | MCP MySQL server process started with PID: 12606
+2026-04-06T08:03:12.916Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-06T08:03:12.916Z | INFO | Press Ctrl+C to gracefully shutdown the server
