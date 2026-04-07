@@ -196,3 +196,17 @@
 2026-04-06T08:03:12.916Z | INFO | MCP MySQL server process started with PID: 12606
 2026-04-06T08:03:12.916Z | INFO | Signal handlers registered for SIGINT and SIGTERM
 2026-04-06T08:03:12.916Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-07T10:10:54.279Z | INFO | Received SIGTERM, shutting down server...
+2026-04-07T10:10:54.284Z | INFO | Sent SIGTERM signal to server process 16138
+2026-04-07T10:10:54.291Z | INFO | MCP MySQL server exited with code: 0
+2026-04-07T10:10:54.292Z | INFO | Server requested restart, restarting...
+2026-04-07T10:10:56.294Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-07T10:10:56.296Z | INFO | MCP MySQL server process started with PID: 55909
+2026-04-07T10:10:56.297Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-07T10:10:56.297Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-07T10:10:56.372Z | INFO | CLI process exiting with code: 0
+2026-04-07T10:11:02.846Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-07T10:11:02.847Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-07T10:11:02.848Z | INFO | MCP MySQL server process started with PID: 56351
+2026-04-07T10:11:02.848Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-07T10:11:02.848Z | INFO | Press Ctrl+C to gracefully shutdown the server
