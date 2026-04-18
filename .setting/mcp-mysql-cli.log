@@ -381,3 +381,54 @@
 2026-04-17T09:39:47.170Z | INFO | MCP MySQL server process started with PID: 19881
 2026-04-17T09:39:47.170Z | INFO | Signal handlers registered for SIGINT and SIGTERM
 2026-04-17T09:39:47.170Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T11:47:15.873Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T11:47:15.875Z | INFO | Sent SIGINT signal to server process 19881
+2026-04-18T11:47:15.876Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T11:47:15.876Z | INFO | Sent SIGINT signal to server process 19881
+2026-04-18T11:47:15.887Z | INFO | MCP MySQL server exited with code: 0
+2026-04-18T11:47:15.888Z | INFO | Server requested restart, restarting...
+2026-04-18T11:47:17.891Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T11:47:17.896Z | INFO | MCP MySQL server process started with PID: 70894
+2026-04-18T11:47:17.896Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T11:47:17.896Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T11:47:20.657Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-18T11:47:20.658Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T11:47:20.659Z | INFO | MCP MySQL server process started with PID: 71007
+2026-04-18T11:47:20.660Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T11:47:20.660Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T11:47:25.876Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-18T11:47:25.880Z | INFO | CLI process exiting with code: 1
+2026-04-18T11:51:56.454Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T11:51:56.456Z | INFO | Sent SIGINT signal to server process 71007
+2026-04-18T11:51:56.457Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T11:51:56.457Z | INFO | Sent SIGINT signal to server process 71007
+2026-04-18T11:51:56.463Z | INFO | MCP MySQL server exited with code: 0
+2026-04-18T11:51:56.463Z | INFO | Server requested restart, restarting...
+2026-04-18T11:51:58.464Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T11:51:58.467Z | INFO | MCP MySQL server process started with PID: 72902
+2026-04-18T11:51:58.467Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T11:51:58.467Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T11:51:59.206Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-18T11:51:59.208Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T11:51:59.209Z | INFO | MCP MySQL server process started with PID: 72953
+2026-04-18T11:51:59.209Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T11:51:59.209Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T11:52:06.457Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-18T11:52:06.458Z | INFO | CLI process exiting with code: 1
+2026-04-18T13:21:25.535Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T13:21:25.537Z | INFO | Sent SIGINT signal to server process 72953
+2026-04-18T13:21:25.538Z | INFO | Received SIGINT, shutting down server...
+2026-04-18T13:21:25.538Z | INFO | Sent SIGINT signal to server process 72953
+2026-04-18T13:21:25.543Z | INFO | MCP MySQL server exited with code: 0
+2026-04-18T13:21:25.544Z | INFO | Server requested restart, restarting...
+2026-04-18T13:21:27.546Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T13:21:27.550Z | INFO | MCP MySQL server process started with PID: 6652
+2026-04-18T13:21:27.551Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T13:21:27.551Z | INFO | Press Ctrl+C to gracefully shutdown the server
+2026-04-18T13:21:35.538Z | WARN | Server shutdown timeout, forcing exit...
+2026-04-18T13:21:35.539Z | INFO | CLI process exiting with code: 1
+2026-04-18T13:29:15.750Z | INFO | Starting MCP MySQL server from: /Users/wang/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-04-18T13:29:15.752Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"8.155.47.77","MYSQL_PORT":"3306","MYSQL_USER":"root","MYSQL_DATABASE":"voiceAssistant","READONLY":"false","ALLOW_DDL":"true","ALLOW_DROP":"true","ALLOW_DELETE":"true","TOOL_PREFIX":"(not set)","PROJECT_NAME":"(not set)","MCP_LOG_DIR":"./.setting","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-04-18T13:29:15.752Z | INFO | MCP MySQL server process started with PID: 9703
+2026-04-18T13:29:15.753Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-04-18T13:29:15.753Z | INFO | Press Ctrl+C to gracefully shutdown the server
